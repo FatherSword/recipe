@@ -1,6 +1,7 @@
 body{
     background-color:hsl(30, 54%, 90%);
     color:hsl(0,0%,16%);
+    font-family:"georgia";
 }
 .container{
     width:80%;
